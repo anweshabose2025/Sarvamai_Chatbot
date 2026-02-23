@@ -1,0 +1,3 @@
+# conda create -p venv python==3.13
+# conda activate D:\AI_Projects\sarvam_ai\Chatbot\venv
+# pip install streamlit sarvamai python-dotenv
